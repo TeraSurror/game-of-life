@@ -1,0 +1,11 @@
+.d-title {
+    text-align: center;
+    padding: 1em 0;
+}
+
+.d-grid-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 1em;
+}
