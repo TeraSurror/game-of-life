@@ -78,7 +78,7 @@ const GameOfLife = () => {
         <>
             {/* --------------------------------------------- */}
 
-            <Navbar bg="dark" variant="dark" expand="lg">
+            <Navbar bg="dark" variant="dark" expand="lg" className="sticky-top"> 
                 <div className="container">
                     <Navbar.Brand href="#home">Conway's Game of Life Simulator</Navbar.Brand>
                     <Navbar.Toggle aria-controls="basic-navbar-nav" />
